@@ -3,7 +3,7 @@ python-dotenv==1.0.1
 google-generativeai==0.3.2
 SpeechRecognition==3.10.0
 gTTS==2.4.0
-opencv-python==4.9.0.80
+opencv-python-headless==4.9.0.80
 librosa==0.10.1
 moviepy==1.0.3
 numpy==1.26.4
